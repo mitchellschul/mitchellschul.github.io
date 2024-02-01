@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mitchellschul.github.io/static/css/main.16d071d0.css",
+    "main.js": "/mitchellschul.github.io/static/js/main.e3c408cc.js",
+    "static/js/787.80cadde2.chunk.js": "/mitchellschul.github.io/static/js/787.80cadde2.chunk.js",
+    "static/media/fellas.png": "/mitchellschul.github.io/static/media/fellas.ed01e15dc250ea1ddbed.png",
+    "static/media/working.png": "/mitchellschul.github.io/static/media/working.c7c2838d5eaf5c29fb03.png",
+    "static/media/sucessTrackThumb.png": "/mitchellschul.github.io/static/media/sucessTrackThumb.d8df43e2054b6ed5ddc8.png",
+    "static/media/mitchellschuldinger.png": "/mitchellschul.github.io/static/media/mitchellschuldinger.ad64ac8074e1141f877d.png",
+    "static/media/bluebuttonup.png": "/mitchellschul.github.io/static/media/bluebuttonup.8bc916814e020ab8a4ce.png",
+    "static/media/itroster.png": "/mitchellschul.github.io/static/media/itroster.939e86637a98348d2012.png",
+    "static/media/odenThumb.jpg": "/mitchellschul.github.io/static/media/odenThumb.e234a8c1d66a7b183dc5.jpg",
+    "static/media/placeholder.jpeg": "/mitchellschul.github.io/static/media/placeholder.f58235541ad7dfc55497.jpeg",
+    "static/media/react.svg": "/mitchellschul.github.io/static/media/react.1d504bdfdb87348d89646ec59caf2ef9.svg",
+    "static/media/js.svg": "/mitchellschul.github.io/static/media/js.8736ad65278e51bab55b2fc5c01ad546.svg",
+    "static/media/figma.svg": "/mitchellschul.github.io/static/media/figma.1a8caff0ea0e94df1ef7012b7e2c35d8.svg",
+    "static/media/tailwind.svg": "/mitchellschul.github.io/static/media/tailwind.bd9791f5d32a9927dd801d484545e3f8.svg",
+    "index.html": "/mitchellschul.github.io/index.html",
+    "static/media/html.svg": "/mitchellschul.github.io/static/media/html.41fb9ce0594e12d6c0c994555030a257.svg",
+    "static/media/css.svg": "/mitchellschul.github.io/static/media/css.2d2b80dc55b1628780a5c7381d94998b.svg",
+    "main.16d071d0.css.map": "/mitchellschul.github.io/static/css/main.16d071d0.css.map",
+    "main.e3c408cc.js.map": "/mitchellschul.github.io/static/js/main.e3c408cc.js.map",
+    "787.80cadde2.chunk.js.map": "/mitchellschul.github.io/static/js/787.80cadde2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d071d0.css",
+    "static/js/main.e3c408cc.js"
+  ]
+}
